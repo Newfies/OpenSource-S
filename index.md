@@ -17,6 +17,9 @@ title: Open Source S
     <li><a class="bold hoveruline" href="#eCred">Easy Crediting</a></li>
   </ul>
 
+<strong><h4 class="noborder hd bold">IMPORTANT</strong>
+<em><p>The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as a easy copy and paste template you should add to your site to support everything as mentioned above.</p></em>
+
 <h3 id="pInfo" class="noborder hd bold">Project Information</h3>
 <p>S is a giant static website designed to provide visiters with many interactive activites as possible (yes, this is how they will be identified as.), all in one place, without any advertising in place.</p>
 <p>If you do decide to continue this, or take from this, I'd appreciate if you kept the same values as the original (no advertising, pro-acs, etc.)
@@ -28,9 +31,6 @@ title: Open Source S
 
 <h3 id="hProject" class="noborder hd bold">Hosting the Project</h3>
 <p>The project and the projects additional resoures fall under an MIT License. All I ask for you is to give me credit, I also ask that you give credit to those that deserve it as well, such as places I got assets from, and those who helped me make this project possible.</p>
-
-<strong><h4 class="noborder hd bold">IMPORTANT</strong>
-<em><p>The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as a easy copy and paste template you should add to your site to support everything as mentioned above.</p></em>
 
 <h4 class="noborder hd bold">Downloading/Cloning Resources</h4>
 <ol>
@@ -45,7 +45,7 @@ title: Open Source S
 </ol>
 
 <h3 id="hRec" class="noborder hd bold">Hosting Recommendations</h3>
-<em><p>The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as a easy copy and paste template you should add to your site to support everything as mentioned above.</p></em>
+<em><p>Nothing Here Yet.</p></em>
 
 <h3 id="eCred" class="noborder hd bold">Easy Crediting</h3>
-<em><p>The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as a easy copy and paste template you should add to your site to support everything as mentioned above.</p></em>
+<em><p>Nothing Here Yet.</p></em>
