@@ -29,3 +29,5 @@ title: Open Source S
 
 <strong><p>IMPORTANT</P></strong>
 <em><p>The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from, and the clean code. I will be adding all this soon, as well as a easy copy and paste template you should add to your site to support everything as mentioned above.</p></em>
+
+<h4 class="noborder hd bold">Downloading/Cloning Resources</h4>
