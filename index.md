@@ -13,6 +13,8 @@ title: Open Source S
     <li><a class="bold hoveruline" href="#pInfo">Project Information</a></li>
     <li><a class="bold hoveruline" href="#pOutcome">Project Outcome</a></li>
     <li><a class="bold hoveruline" href="#hProject">Hosting the Project</a></li>
+    <li><a class="bold hoveruline" href="#hRec">Hosting Recommendations</a></li>
+    <li><a class="bold hoveruline" href="#eCred">Easy Crediting</a></li>
   </ul>
 
 <h3 id="pInfo" class="noborder hd bold">Project Information</h3>
@@ -41,3 +43,9 @@ title: Open Source S
     <li>data.json</li>
   </ul>
 </ol>
+
+<h3 id="hRec" class="noborder hd bold">Hosting Recommendations</h3>
+<em><p>The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as a easy copy and paste template you should add to your site to support everything as mentioned above.</p></em>
+
+<h3 id="eCred" class="noborder hd bold">Easy Crediting</h3>
+<em><p>The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as a easy copy and paste template you should add to your site to support everything as mentioned above.</p></em>
