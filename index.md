@@ -43,7 +43,7 @@ title: Open Source S
     <ol>
       <li>Get Files</li>
         <p class="listText">Run The Following:</p>
-          <pre><code>git clone {URL}</code></pre>
+          <pre id="c1"><code>git clone {URL}</code></pre>
       <li>Editing Files</li>
         <p class="listText">You can now enter the folder and configure things to your liking, here are some files you might wanna look at:</p>
       <ul>

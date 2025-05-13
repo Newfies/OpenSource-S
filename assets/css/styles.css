@@ -85,3 +85,8 @@ em p {
   border: 1px solid black;
   border-radius: 12px;
 }
+
+pre {
+  background-color: #cccccc;
+  padding: 0.25% 0.5%;
+}
