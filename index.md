@@ -33,4 +33,5 @@ title: Open Source S
 <h4 class="noborder hd bold">Downloading/Cloning Resources</h4>
 <ol>
   <li>Get Files</li>
+  <p class="listText">Run The Following:</p>
 </ol>

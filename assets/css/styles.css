@@ -58,3 +58,7 @@ ul.custom-list {
 .custom-list li::before {
   content: "➤"
 }
+
+.listText {
+  margin-left: 2%;
+}
