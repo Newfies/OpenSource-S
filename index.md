@@ -35,17 +35,17 @@ title: Open Source S
 <h4 class="noborder hd bold">Downloading/Cloning Resources</h4>
   <ol>
     <li>Get Files</li>
-    <p class="listText">Run The Following:</p>
-    <pre><code>git clone {URL}</code></pre>
+      <p class="listText">Run The Following:</p>
+        <pre><code>git clone {URL}</code></pre>
     <li>Editing Files</li>
-    <p class="listText">You can now enter the folder and configure things to your liking, here are some files you might wanna look at:</p>
+      <p class="listText">You can now enter the folder and configure things to your liking, here are some files you might wanna look at:</p>
     <ul>
       <li>data.json</li>
     </ul>
   </ol>
 
 <h3 id="hRec" class="noborder hd bold">Hosting Recommendations</h3>
-<em><p>Nothing Here Yet.</p></em>
+  <em><p>Nothing Here Yet.</p></em>
 
 <h3 id="eCred" class="noborder hd bold">Easy Crediting</h3>
-<em><p>Nothing Here Yet.</p></em>
+  <em><p>Nothing Here Yet.</p></em>
