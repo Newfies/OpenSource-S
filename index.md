@@ -18,9 +18,9 @@ title: Open Source S
   </ul>
 
 <h4 class="noborder hd bold">IMPORTANT</h4>
-<em><p>
-    The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as a easy copy and paste template you should add to your site to support everything as mentioned above.
-</p></em>
+<p><em>
+  The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as an easy copy and paste template you should add to your site to support everything as mentioned above.
+</em></p>
 
 <div class="section">
 <h3 id="pInfo" class="noborder hd bold">Project Information</h3>
