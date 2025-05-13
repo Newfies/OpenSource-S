@@ -3,7 +3,7 @@
 
 /* CSS For The Body */
 body {
-  background-color: #feefee;
+  background-color: #e6e6e6;
 }
 
 /* CSS For The Main Element */
@@ -75,4 +75,11 @@ em p {
 
 .listText {
   margin-left: 1.25%;
+}
+
+.section {
+  padding: 1% 2%;
+  background-color: #cccccc;
+  margin-top: 1%;
+  margin-bottom: 1%;
 }
