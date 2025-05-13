@@ -29,7 +29,7 @@ title: Open Source S
 <h3 id="hProject" class="noborder hd bold">Hosting the Project</h3>
 <p>The project and the projects additional resoures fall under an MIT License. All I ask for you is to give me credit, I also ask that you give credit to those that deserve it as well, such as places I got assets from, and those who helped me make this project possible.</p>
 
-<strong><p>IMPORTANT</P></strong>
+<strong><h4 class="noborder hd bold">IMPORTANT</strong>
 <em><p>The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as a easy copy and paste template you should add to your site to support everything as mentioned above.</p></em>
 
 <h4 class="noborder hd bold">Downloading/Cloning Resources</h4>
