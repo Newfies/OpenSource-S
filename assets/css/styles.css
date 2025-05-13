@@ -80,6 +80,7 @@ em p {
 .section {
   padding: 1% 2%;
   background-color: #cccccc;
-  margin-top: 1%;
-  margin-bottom: 1%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  border: 1px solid black;
 }
