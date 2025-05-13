@@ -21,11 +21,11 @@ a:hover, a:active, a:focus, a:visited {
 }
 
 a .bold {
-  font-weight: 600;
+  font-weight: 700;
 }
 
 a .hoveruline:hover {
-  font-decoration: underline;
+  text-decoration: underline;
 }
 
 /* Custom Header CSS, To Remove The Line Under The Text, Give Boldness, Etc. */
@@ -49,5 +49,5 @@ ul.custom-list {
 }
 
 .custom-list li::before {
-  content: "➤▻"
+  content: "➤"
 }
