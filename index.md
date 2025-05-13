@@ -19,12 +19,12 @@ title: Open Source S
 
 <h4 class="noborder hd bold">IMPORTANT</h4>
 <p><em>
-  The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as an easy copy and paste template you should add to your site to support everything as mentioned above. This will most likely be finished around June of 2025
+  The "open source conversion" is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as an easy copy and paste template you should add to your site to support everything as mentioned above. This will most likely be finished around June of 2025
 </em></p>
 
 <div class="section">
 <h3 id="pInfo" class="noborder hd bold">Project Information</h3>
-  <p>S is a giant static website designed to provide visiters with many interactive activites as possible (yes, this is how they will be identified as.), all in one place, without any advertising in place.</p>
+  <p>S (the website doesn't exactly have a name, its called station on GH but it was more of like a placeholder name) is a giant static website designed to provide visiters with many interactive activites as possible (yes, this is how they will be identified as.), all in one place, without any advertising in place.</p>
   <p>If you do decide to continue this, or take from this, I'd appreciate if you kept the same values as the original (no advertising, pro-acs, etc.)</p>
   <p>This project was designed to allow others that discovered it, to enjoy a stable experience. However I can only confirm this site was used by two people, but maybe more used it.</p>
 </div>
@@ -37,7 +37,7 @@ title: Open Source S
 
 <div class="section">
 <h3 id="hProject" class="noborder hd bold">Hosting the Project</h3>
-  <p>The project and the projects additional resoures fall under an MIT License. All I ask for you is to give me credit, I also ask that you give credit to those that deserve it as well, such as places I got assets from, and those who helped me make this project possible.</p>
+  <p>S and the projects additional resoures fall under an MIT License. All I ask for you is to give me credit, I also ask that you give credit to those that deserve it as well, such as places I got assets from, and those who helped me make this project possible.</p>
 
   <h4 class="noborder hd bold">Downloading/Cloning Resources</h4>
     <ol>
