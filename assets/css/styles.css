@@ -59,6 +59,10 @@ ul.custom-list {
   content: "➤"
 }
 
-.listText, pre {
+p {
   margin-left: 2%;
+}
+
+.listText, pre {
+  margin-left: 4%;
 }
