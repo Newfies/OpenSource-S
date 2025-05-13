@@ -31,8 +31,9 @@ a .bold {
   font-weight: 700;
 }
 
-a .hoveruline:hover {
+.hoveruline:hover {
   text-decoration: underline;
+  font-weight: 700;
 }
 
 /* Custom Header CSS, To Remove The Line Under The Text, Give Boldness, Etc. */
