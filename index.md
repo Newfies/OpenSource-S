@@ -54,7 +54,13 @@ title: Open Source S
 
 <div class="section">
 <h3 id="hRec" class="noborder hd bold">Hosting Recommendations</h3>
-  <em><p>Nothing Here Yet.</p></em>
+  <ol>
+    <li>Use obfuscation/encryption/encoding when needed</li>
+    <li>Use other terms in place of keywords</li>
+    <li>Using javascript to insert elements onto the page can help if your trying to stop something from detecting things</li>
+    <li>Use special launching methods to avoid the site url from showing up on unwanted places</li>
+    <li>Don't make it obvious what it is, add something that looks normal!</li>
+  </ol>
 </div>
 
 <div class="section">
