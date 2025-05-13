@@ -56,7 +56,8 @@ ul.custom-list {
 }
 
 .custom-list li::before {
-  content: "➤"
+  content: "➤";
+  margin-right: 0.5%;
 }
 
 p {
