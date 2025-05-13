@@ -19,7 +19,7 @@ title: Open Source S
 
 <h4 class="noborder hd bold">IMPORTANT</h4>
 <p><em>
-  The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as an easy copy and paste template you should add to your site to support everything as mentioned above.
+  The Open Source conversion is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as an easy copy and paste template you should add to your site to support everything as mentioned above. This will most likely be finished around June of 2025
 </em></p>
 
 <div class="section">
