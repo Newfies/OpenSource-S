@@ -1,0 +1,53 @@
+/* Importing Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+/* CSS For The Main Element */
+main {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* CSS For The A Element, For Removing The Blue Color and Underline On Links, etc. */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover, a:active, a:focus, a:visited {
+  text-decoration: none;
+  color: inherit;  /* Inheriting the parent color for consistency */
+}
+
+a .bold {
+  font-weight: 600;
+}
+
+a .hoveruline:hover {
+  font-decoration: underline;
+}
+
+/* Custom Header CSS, To Remove The Line Under The Text, Give Boldness, Etc. */
+.hd {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.hd.bold {
+  font-weight: 700;
+}
+
+h1.noborder, h2.noborder, h3.noborder, h4.noborder, h5.noborder, h6.noborder {
+  border-bottom: 0px;
+}
+
+ul.custom-list {
+  list-style-type: none;
+}
+
+.custom-list li::before {
+  content: "➤▻"
+}
