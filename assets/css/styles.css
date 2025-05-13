@@ -59,6 +59,6 @@ ul.custom-list {
   content: "➤"
 }
 
-.listText {
+.listText, pre {
   margin-left: 2%;
 }
