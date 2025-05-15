@@ -65,5 +65,5 @@ title: Open Source S
 
 <div class="section">
 <h3 id="eCred" class="noborder hd bold">Easy Crediting</h3>
-  <em><p>Nothing Here Yet.</p></em>
+  <em><p>All credits are found in the credits tab.</p></em>
 </div>
