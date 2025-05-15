@@ -17,10 +17,10 @@ title: Open Source S
     <li><a class="bold hoveruline" href="#eCred">Easy Crediting</a></li>
   </ul>
 
-<h4 class="noborder hd bold">IMPORTANT</h4>
-<p><em>
-  The "open source conversion" is not finished, mainly because I am not done with the project just yet, which will explain why some info is missing, such as where to get things from (I will be putting everything the site uses onto one platform), and the clean code. I will be adding all this soon, as well as an easy copy and paste template you should add to your site to support everything as mentioned above. This will most likely be finished around June of 2025
-</em></p>
+<s><h4 class="noborder hd bold">IMPORTANT</h4></s>
+<p><em><s>
+  The open-source conversion is not yet complete, mainly because the project itself is still in progress. This explains why some information is currently missing—such as where to obtain certain resources. I plan to host everything the site uses on a single platform. Clean, organized code and a simple copy-and-paste template to support all features will also be added. I expect to have everything finished by June 2025. Everything has been packed into one repository, which is quite large (over 5GB). All unnecessary and unused files have already been removed.
+</s></em></p>
 
 <div class="section">
 <h3 id="pInfo" class="noborder hd bold">Project Information</h3>
@@ -43,7 +43,7 @@ title: Open Source S
     <ol>
       <li>Get Files</li>
         <p class="listText">Run The Following:</p>
-          <pre id="c1"><code>git clone {URL}</code></pre>
+          <pre id="c1"><code>git clone https://gitlab.com/nmcopensourceprojects/S.git<code></pre>
       <li>Editing Files</li>
         <p class="listText">You can now enter the folder and configure things to your liking, here are some files you might wanna look at:</p>
       <ul>
