@@ -17,11 +17,6 @@ title: Open Source S
     <li><a class="bold hoveruline" href="#eCred">Easy Crediting</a></li>
   </ul>
 
-<s><h4 class="noborder hd bold">IMPORTANT</h4></s>
-<p><em><s>
-  The open-source conversion is not yet complete, mainly because the project itself is still in progress. This explains why some information is currently missing—such as where to obtain certain resources. I plan to host everything the site uses on a single platform. Clean, organized code and a simple copy-and-paste template to support all features will also be added. I expect to have everything finished by June 2025. Everything has been packed into one repository, which is quite large (over 5GB). All unnecessary and unused files have already been removed.
-</s></em></p>
-
 <div class="section">
 <h3 id="pInfo" class="noborder hd bold">Project Information</h3>
   <p>S (the website doesn't exactly have a name, its called station on GH but it was more of like a placeholder name) is a giant static website designed to provide visiters with many interactive activites as possible (yes, this is how they will be identified as.), all in one place, without any advertising in place.</p>
